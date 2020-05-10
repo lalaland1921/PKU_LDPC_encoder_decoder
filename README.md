@@ -1,0 +1,2 @@
+# PKU_LDPC_encoder_decoder
+北大信科研究生课程信息论与编码理论第一次大作业LDPC编解码性能仿真
