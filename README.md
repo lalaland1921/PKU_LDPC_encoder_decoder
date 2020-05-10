@@ -1,4 +1,4 @@
-# PKU_LDPC_encoder_decoder
+# PKU LDPC encoder & decoder simulation
 北大信科研究生课程“信息论与编码理论”第一次大作业LDPC编解码性能仿真
 ## 食用方法
 data&result文件夹中的Matrix(2016,1008)Block56为H矩阵块，通过load方法导入matlab中
