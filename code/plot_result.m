@@ -1,3 +1,5 @@
+%ctrl+t 解除注释可将3个仿真结果图绘出来
+%------find best alpha and beta
 % plot(alphas,BER_a,'-*b',betas,BER_b,'-or');
 % legend('Normalized Min Sum ','Offset Min Sum ');
 % set(gca,'XTick',[0:0.1:1]);
